@@ -1,0 +1,465 @@
+
+#Rasi-customers{
+    text-align: center;
+    background-color: rgb(122, 224, 122);
+    color: white;
+    padding: 5%;
+    font-size: 1.3vw;
+    padding-top: 1%;
+}
+.about-rasi{
+background-image:linear-gradient(rgba(17, 16, 16, 0.5), rgba(7, 2, 2, 0.5)),url(images/pilow-image.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 3vw;
+    margin-top: -5%;
+}
+.rasi-print{
+display: flex;
+margin-left: 10%;
+}
+#print-heading{
+font-size: 1.3vw;
+margin-top: 3%;
+}
+.strategy{
+    display: flex;
+    font-size: 1.2vw;
+    gap: 30%;
+    margin-left: 15%;
+    margin-top: 2%;
+}
+#call{
+    width: 3%;
+    height: 80%;
+    margin-left: 40%;
+    margin-top: 3%;
+}
+#rasi-screen-printing{
+    font-size: 1.5vw;
+}
+#Contact-button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(146, 143, 143);
+    border-radius: 25px;
+    padding: 1%;
+    width: 15%;
+    font-size: 1vw;
+    border: none;
+}
+.advert{
+    text-align: center;
+    height: 100%;
+    font-size: 1.4vw;
+    margin-top: 3%;
+}
+.moreon-screen-printing{
+    display: flex;
+    gap: 10%;
+    margin-top: 6%;
+    margin-left: 20%;
+}
+#bedroom-pillow{
+    width: 35%;
+    height: 60vh;
+}
+#heading{
+    color: green;
+    font-size: 1.3vw;
+}
+#modern-sophiscation{
+    font-size: 2vw;
+    line-height: 4pc;
+}
+#how-we-do-it{
+    font-size: 1vw;
+}
+.about-screen-printing{
+    line-height: 3vh;
+}
+#know-more-button{
+    border-radius: 30%;
+    width: 35%;
+    padding: 3%;
+    font-size: 1vw;
+    background-color: green;
+    color: white;
+}
+#contact-button{
+    border-radius: 30%;
+    width: 35%;
+    padding: 3%;
+    font-size: 1vw;
+    margin-left: 8%;
+}
+.know-more-and-contact-buttons{
+    margin-top: 6%;
+    gap: 10%;
+}
+#arrow{
+    width: 20%;
+    background-color: green;
+}
+.what-rasi-offers{
+    display: flex;
+    margin-top: 10%;
+    background-color: rgb(214, 236, 236);
+    background-size: screen;
+    margin-left: 7%;
+    padding-bottom: 5%;
+    padding-top: 3%;
+    padding-right: -5%;
+}
+.premium{
+    display: flex;
+}
+#Layer{
+    width: 100%;
+}
+#array{
+    font-size: 4vw;
+    text-align: center;
+    margin-top: 8%;
+}
+#gain{
+    font-size: 1.5vw;
+    line-height: 3vh;
+    text-align: center;
+    margin-top: -3%;
+}
+.screening-array-images{
+    display: flex;
+    width: 85%;
+    height: 55vh;
+    gap: 3%;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+#plant-dye{
+    width: 35%;
+    height: 60vh;
+    border-radius: 5%;
+}
+#textile-printing{
+    width: 35%;
+    height: 60vh;
+    border-radius: 5%;
+}
+#aero{
+    width: 35%;
+    height: 60vh;
+    border-radius: 5%;
+}
+.screen-printing-types{
+    display: flex;
+    gap: 5%;
+    margin-left: 4%;
+    margin-top: 2%;
+}
+#textile{
+    font-size:2.8vw;
+}
+#uv{
+    font-size:2.8vw;
+}
+#four-color{
+    font-size: 2.8vw;
+}
+#how-used{
+    font-size: 1.3vw;
+    line-height: 4vh;
+}
+#direction-arrow{
+    background-color: rgb(209, 248, 248);
+    padding: 2%;
+    border-radius: 50%;
+    font-size: 3vw;
+    height: 5vh;
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.traditional{
+    display: flex;
+    width: 200%;
+}
+.advanced{
+    display: flex;
+    width: 200%;
+}
+.process{
+    display: flex;
+    width: 200%;
+}
+#what-clients-say{
+    text-align: center;
+    font-size: 3vw;
+    margin-top: 6%;
+}
+#why-clients-praise-rasi{
+text-align: center;
+margin-top: -2%;
+line-height: 3vh;
+font-size: 1vw;
+}
+.premium{
+    display: flex;
+}
+#layer{
+    width: 20%;
+}
+.sustainability{
+    display: flex;
+}
+#Sustainable_recycling{
+    width: 20%;
+}
+.shipping{
+    display: flex;
+}
+#eco-caring{
+    width: 20%;
+}
+.warranty{
+    display: flex;
+}
+#Слой_1{
+    width: 20%;
+}
+.praise-for-rasi{
+    display: flex;
+    margin-top: 6%;
+    gap: 20%;
+    margin-left: 10%;
+}
+.barla{
+    display: flex;
+    gap: -3%;
+}
+.Arvind{
+    display: flex;
+    gap: 2%;
+}
+.Raymond{
+    display: flex;
+}
+#birla-iamge{
+    width: 80%;
+    height: 85%;
+    border-radius: 10%;
+}
+#arvind{
+    width: 20%;
+    height: 60%;
+    border-radius: 10%;
+    margin-top: 2%;
+    margin-left: 20%;
+}
+#bfvt{
+    width: 30%;
+    height: 150%;
+    border-radius: 5%;
+    margin-top: -15%;
+    margin-left: -30%;
+}
+.quality-of-rasi-printing{
+    display: flex;
+    margin-left: 2%;
+    margin-top: 6%;
+}
+#customer{
+    font-size: 2vw;
+}
+#quality{
+font-size: 2vw;
+}
+#appreciation{
+line-height: 3vh;
+font-size: 1.4vw;
+line-height: 3.5vh;
+}
+#pixel-photo{
+    border-radius: 5%;
+    height: 50vh;
+    width: 40%;
+}
+#stars{
+    width: 30%;
+    
+}
+#title{
+    text-align: center;
+    font-size: 3vw;
+    margin-top: 8%;
+}
+#exploring-rasi{
+    text-align: center;
+    font-size: 1.3vw;
+    margin-top: -2%;
+}
+#dresses{
+    width: 30%;
+    height: 65vh;
+    border-radius: 5%;
+}
+#bed{
+    width: 30%;
+    height: 65vh;
+    border-radius: 5%;
+}
+#image{
+    width: 30%;
+    height: 65vh;
+    border-radius: 5%;
+}
+.customer-icons{
+    display: flex;
+    margin-top: 10%;
+    width: 20%;
+    height: 20%;
+    gap: 25%;
+    margin-left: 7%;
+}
+#vind{
+    width: 20%;
+    height: 20%;
+    border-radius: 10%;
+}
+#gap-icon{
+    width: 25%;
+    height: 25%;
+    margin-top: -2%;
+}
+#mynstry-image{
+    width: 50%;
+    height: 20%;
+    margin-top: 3%;
+}
+#puma-image{
+    width: 40%;
+    height: 20%;
+    margin-top: -13%;
+}
+#barla-image{
+    width: 40%;
+    height: 20%;
+    margin-top: -6%;
+}
+#converse{
+    width: 50%;
+    height: 20%;
+    margin-top: -9%;
+}
+#markala-image{
+    width: 70%;
+    height: 20%;
+    margin-top: 3%;
+}
+.showcase-images{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+#antarazevich{
+    width: 86%;
+    height: 100vh;
+    border-radius: 5%;
+    margin-top: 1%;
+    margin-left: 5%;
+}
+#reach-to-rasi{
+    font-size: 3vw;
+    text-align: center;
+    margin-top: 8%;
+}
+#contact-us{
+text-align: center;
+font-size: 1.5vw;
+}
+.phonenumber{
+    display: flex;
+}
+.address{
+    display: flex;
+}
+.opening-hours{
+    display: flex;
+}
+#call-image{
+    
+}
+.phonenumber-address-hours-open{
+    position: absolute;
+    margin-top: -40%;
+    margin-left: 5%;
+    background-color: white;
+    width: 25%;
+    border-radius: 8%;
+    height: 66vh;
+    padding-left: 5%;
+}
+#phone{
+    font-size: 3vw;
+}
+.phones{
+    font-size: 1.3vw;
+}
+.the-address{
+    font-size: 1.3vw;
+}
+.hours-open{
+    font-size: 1.3vw;
+}
+#location{
+    width: 100%;
+    height: 100vh;
+}
+.footer{
+    background-color: rgb(26, 23, 23);
+    color: white;
+    padding-bottom: 5%;
+}
+#rasi-logo{
+    border-radius: 5%;
+    margin-top: 10%;
+    width: 100%;
+    height: 25vh;
+}
+.main-footer{
+    display: flex;
+    gap: 8%;
+    line-height: 3vh;
+    margin-left: 7%;
+    padding-top: 8%;
+}
+.contact-numbers{
+    display: flex;
+    gap: 5%;
+}
+.number-and-email{
+    display: flex;
+    gap: 5%;
+}
+#contact-one{
+    margin-top: 8%;
+}
+#line{
+    height: 10vh;
+}
+#hr-line{
+    margin-top: 6%;
+}
+#Copyright{
+    text-align: center;
+    margin-top: 3%;
+}
+
+
+@media all and (min-width: 100px) and (max-width: 700px)
+
+
+
+
