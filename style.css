@@ -457,9 +457,196 @@ font-size: 1.5vw;
     margin-top: 3%;
 }
 
+@media only screen and (max-width: 600px) {
 
-@media all and (min-width: 100px) and (max-width: 700px)
+    body{
+        position: relative;
+        width: 96%;
+        left: 0;
+        right: 0;
+        max-height: fit-content;
+    }
+    .prints-of-rasi{
+            height: 10%;
+            position: relative;
+    }
+    .moreon-screen-printing{
+        position: relative;
+    }
+    #bedroom-pillow{
+        height: 10%;
+        width: 60%;
+        margin-left: -20%;
+        border-radius: 8%;
+    }
+    #about-screen-printing{
+        line-height: 2vh;
+    }
+    #modern-sophiscation{
+        line-height: 4vh;
+        font-size: 4vw;
+        margin-top: -5%;
+    }
+    #how-we-do-it{
+        font-size: 2vw;
+        margin-top: -10%;
+        line-height: 2vh;
+    }
+    #know-more-button{
+        font-size: 1vh;
+        width: 40%;
+    }
+    #contact-button{
+        font-size: 1vh;
+        width: 40%;
+    }
+    .reason-for-premium{
+        font-size: 2.5vw;
+        line-height: 2vh;
+    }
+    .reason-for-waranty{
+        font-size: 2.5vw;
+        line-height: 2vh;
+    }
+    .reason-for-timely-shipping{
+        font-size: 2.5vw;
+        line-height: 2vh;
+    }
+    .reason-for-sustainability{
+        font-size: 2.5vw;
+        line-height: 2vh;
+    }
+    #array{
+        font-size: 5vw;
+    }
+    #gain{
+        font-size: 2.5vw;
+    }
+    #plant-dye{
+        height: 40%;
+    }
+    #textile-printing{
+        height: 40%;
+    }
+    #aero{
+        height: 40%;
+    }
+    .screen-printing-types{
+        margin-top: -60%;
+    }
+    #direction-arrow{
+        padding: 2%;
+    }
+    #how-used{
+        font-size: 2vw;
+        line-height: 2vh;
+        margin-top: -5%;
+    }
+    #what-clients-say{
+        font-size: 5vw;
+    }
+    #why-clients-praise-rasi{
+        font-size: 2.2vw;
+        line-height: 2vh;
+    }
+    .customer{
+        font-size: 2vw;
+    }
+    #birla-iamge{
+        height: 50%;
+    }
+    #arvind{
+        height: 30%;
+        width: 30%;
+        margin-top: 2%;
+    }
+    #bfvt{
+        height: 70%;
+        width: 50%;
+    }
+    #industry{
+        font-size: 2vw;
+        line-height: 1vh;
+    }
+    .praise-for-rasi{
+        margin-left: -0%;
+        gap: 5%;
+    }
+    #quality{
+        font-size: 3vw;
+    }
+    #appreciation{
+        font-size: 2vw;
+        line-height: 2vh;
+    }
+    #pixel-photo{
+        width: 40%;
+        height: 38vh;
+    }
+    #title{
+        font-size: 5vw;
+    }
+    #exploring-rasi{
+        font-size: 2.5vw;
+    }
+    #dresses{
+        height: 30vh;
+    }
+    #bed{
+        height: 30vh;
+    }
+    #image{
+        height: 30vh;
+    }
+    #antarazevich{
+        height: 40vh;
+    }
+    #reach-to-rasi{
+        font-size: 5vw;
+    }
+    #contact-us{
+        font-size: 2.3vw;
+        margin-top: -3%;
+    }
+    #location{
+        height: 50%;
+    }
+    .phonenumber-address-hours-open{
+        height: 1%;
+        background-color: white;
+    }
+    #rasi-logo{
+        width: 40%;
+        height: 10%;
+    }
+    #main-topic{
+        font-size: 2vw;
+    }
+    #aim{
+        font-size: 1.3vw;
+        line-height: 1vh;
+    }
+    #contact-one{
+        
+    }
+    #Copyright{
+        font-size: 2vw;
+    }
+    #main-footer{
+        column-gap: 1%;
+    }
+  @media only screen and (max-width: 620px) {
+    .menu, .main, .right 
+      width: 100%;
+  }
 
-
+  
+  @media screen and (max-width: 800px) {
+    .left, .main, .right 
+      width: 100%;
+  }
+  
+  
+  
 
 
